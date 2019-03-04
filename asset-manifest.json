@@ -1,14 +1,14 @@
 {
-  "main.css": "/ptsongalis.github.io/static/css/main.d8bbc6e7.chunk.css",
-  "main.js": "/ptsongalis.github.io/static/js/main.5cebda96.chunk.js",
-  "main.js.map": "/ptsongalis.github.io/static/js/main.5cebda96.chunk.js.map",
-  "runtime~main.js": "/ptsongalis.github.io/static/js/runtime~main.9e7901b6.js",
-  "runtime~main.js.map": "/ptsongalis.github.io/static/js/runtime~main.9e7901b6.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/ptsongalis.github.io/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/ptsongalis.github.io/static/js/2.5bf9b2cd.chunk.js.map",
-  "index.html": "/ptsongalis.github.io/index.html",
-  "precache-manifest.adf6ca506544de741221794a66f7a3a7.js": "/ptsongalis.github.io/precache-manifest.adf6ca506544de741221794a66f7a3a7.js",
-  "service-worker.js": "/ptsongalis.github.io/service-worker.js",
-  "static/css/main.d8bbc6e7.chunk.css.map": "/ptsongalis.github.io/static/css/main.d8bbc6e7.chunk.css.map",
-  "static/media/logo.svg": "/ptsongalis.github.io/static/media/logo.5d5d9eef.svg"
+  "main.css": "/static/css/main.d8bbc6e7.chunk.css",
+  "main.js": "/static/js/main.c071c612.chunk.js",
+  "main.js.map": "/static/js/main.c071c612.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.5bf9b2cd.chunk.js": "/static/js/2.5bf9b2cd.chunk.js",
+  "static/js/2.5bf9b2cd.chunk.js.map": "/static/js/2.5bf9b2cd.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.a322bd63a7757a0d3c4eb27899143d4f.js": "/precache-manifest.a322bd63a7757a0d3c4eb27899143d4f.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.d8bbc6e7.chunk.css.map": "/static/css/main.d8bbc6e7.chunk.css.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
 }
